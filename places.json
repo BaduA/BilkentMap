@@ -1,0 +1,258 @@
+{
+  "MenuItems": {
+    "Yurtlar": [
+      {
+        "name": "52. Yurt",
+        "coordinates": [39.86479589591583, 32.7498583666337]
+      },
+      {
+        "name": "54. Yurt",
+        "coordinates": [39.86456156318052, 32.74972417958024]
+      },
+      {
+        "name": "55. Yurt",
+        "coordinates": [39.86431789122728, 32.75002006629479]
+      },
+      {
+        "name": "60. Yurt",
+        "coordinates": [39.86398905100189, 32.74973650819506]
+      },
+      {
+        "name": "61. Yurt",
+        "coordinates": [39.863570309723286, 32.749665618668956]
+      },
+      {
+        "name": "62. Yurt",
+        "coordinates": [39.863570309723286, 32.749665618668956]
+      },
+      {
+        "name": "63. Yurt",
+        "coordinates": [39.863570309723286, 32.749665618668956]
+      },
+      {
+        "name": "64. Yurt",
+        "coordinates": [39.86341079790192, 32.74902479662729]
+      },
+      {
+        "name": "69. Yurt",
+        "coordinates": [39.86449158497048, 32.74902118620207]
+      },
+      {
+        "name": "70. Yurt",
+        "coordinates": [39.86395950731045, 32.74904284875334]
+      },
+      {
+        "name": "71. Yurt",
+        "coordinates": [39.86419783427252, 32.74858793517673]
+      },
+      {
+        "name": "72. Yurt",
+        "coordinates": [39.864020474751634, 32.74850489539686]
+      },
+      {
+        "name": "73. Yurt",
+        "coordinates": [39.863870827299294, 32.74850489539686]
+      },
+      {
+        "name": "74. Yurt",
+        "coordinates": [39.863635270463085, 32.74841463476658]
+      },
+      {
+        "name": "75. Yurt",
+        "coordinates": [39.86412023953856, 32.74790195438659]
+      },
+      {
+        "name": "76. Yurt",
+        "coordinates": [39.86445831310152, 32.74757432815064]
+      },
+      {
+        "name": "77. Yurt",
+        "coordinates": [39.86443207112052, 32.74663169690106]
+      },
+      {
+        "name": "81. Yurt",
+        "coordinates": [39.86372029757009, 32.74642477809289]
+      },
+      {
+        "name": "82. Yurt",
+        "coordinates": [39.86372029757009, 32.74642477809289]
+      },
+      {
+        "name": "90. Yurt",
+        "coordinates": [39.868566701051165, 32.764125777808005]
+      },
+      {
+        "name": "91. Yurt",
+        "coordinates": [39.869114143885106, 32.76367761846929]
+      },
+      {
+        "name": "92. Yurt",
+        "coordinates": [39.86935395154471, 32.763384105663874]
+      },
+      {
+        "name": "93. Yurt",
+        "coordinates": [39.87009370259791, 32.76319303081092]
+      }
+    ],
+    "Sigara İçme Alanları": [
+      { "name": "1", "coordinates": [39.86821268474199, 32.76314169795756] },
+      { "name": "2", "coordinates": [39.87059046625922, 32.765400216986144] },
+      { "name": "3", "coordinates": [39.871927142530964, 32.765034771486526] },
+      { "name": "4", "coordinates": [39.873810491434845, 32.7635460116783] },
+      { "name": "5", "coordinates": [39.86823548693972, 32.75521822517848] },
+      { "name": "6", "coordinates": [39.86671055652217, 32.75124055070279] },
+      { "name": "7", "coordinates": [39.86765916136047, 32.75236200635193] },
+      { "name": "8", "coordinates": [39.865700838835274, 32.74993158764434] },
+      { "name": "9", "coordinates": [39.86404102126902, 32.749991313687374] },
+      { "name": "10", "coordinates": [39.86367104054024, 32.750016969874025] },
+      { "name": "11", "coordinates": [39.863447618859844, 32.74572183278447] },
+      { "name": "12", "coordinates": [39.86307726719424, 32.746399933773624] },
+      { "name": "13", "coordinates": [39.86307726719424, 32.746399933773624] },
+      { "name": "14", "coordinates": [39.86307726719424, 32.746399933773624] }
+    ],
+    "Spor Salonu": [
+      {
+        "name": "Yurtlar Spor Salonu",
+        "coordinates": [39.86361972260793, 32.74537082314508]
+      },
+      {
+        "name": "Merkez Spor Salonu",
+        "coordinates": [39.86647076585197, 32.74812717681911]
+      },
+      {
+        "name": "Doğu Spor Salonu",
+        "coordinates": [39.87006574323018, 32.7648920584041]
+      }
+    ],
+    "Banka / ATM": [
+      {
+        "name": "Yapı Kredi ATM 1",
+        "coordinates": [39.86571832645458, 32.74718642237224]
+      },
+      {
+        "name": "VakıfBank ATM 1",
+        "coordinates": [39.868946333397744, 32.749589681628606]
+      },
+      {
+        "name": "Garanti BBVA ATM 1",
+        "coordinates": [39.87090612068389, 32.74294584995506]
+      },
+      {
+        "name": "Yapı Kredi ATM 2",
+        "coordinates": [39.87147603400535, 32.75022595320123]
+      },
+      {
+        "name": "PTT Bank Bilkent Şubesi",
+        "coordinates": [39.88106770051071, 32.753916002549516]
+      },
+      {
+        "name": "VakıfBank ATM 2",
+        "coordinates": [39.8820222589817, 32.75562196682668]
+      },
+      {
+        "name": "Garanti BBVA ATM 2",
+        "coordinates": [39.88254326263529, 32.755935481892216]
+      },
+      {
+        "name": "QNB Finansbank ATM 1",
+        "coordinates": [39.88254737907785, 32.75612860094189]
+      },
+      {
+        "name": "Ziraat Bankası 1",
+        "coordinates": [39.88329656751843, 32.755683354240084]
+      },
+      {
+        "name": "VakıfBank ATM 3",
+        "coordinates": [39.88340657790983, 32.75639118221102]
+      },
+      {
+        "name": "Halkbank ATM 1",
+        "coordinates": [39.883833317799755, 32.7577946473342]
+      },
+      {
+        "name": "Yapı Kredi ATM 3",
+        "coordinates": [39.883443118423315, 32.758977896136976]
+      },
+      {
+        "name": "Garanti BBVA ATM 3",
+        "coordinates": [39.88429855261561, 32.75824447745757]
+      }
+    ],
+    "Ring Durakları": [],
+    "Sağlık": [
+      {
+        "name": "Bilkent Sağlık Merkezi (Merkez Kampüs)",
+        "coordinates": [39.868432268881314, 32.74912882577913]
+      },
+      {
+        "name": "Bilkent Sağlık Merkezi (Doğu Kampüs)",
+        "coordinates": [39.87136033434479, 32.763900952009436]
+      },
+      {
+        "name": "Bilkent Ömür Eczanesi",
+        "coordinates": [39.86841667224683, 32.749308134165524]
+      },
+      {
+        "name": "Bilkent Eczanesi",
+        "coordinates": [39.88364008664574, 32.75598660710564]
+      },
+      {
+        "name": "Ankuva Eczanesi",
+        "coordinates": [39.88386907286187, 32.755888995418246]
+      },
+      {
+        "name": "Psikolojik Danışma Ve Gelişim Merkezi",
+        "coordinates": [39.87520346884956, 32.75039889322599]
+      }
+    ],
+    "Bilkent Binaları": [
+      {
+        "name": "Rektörlük",
+        "coordinates": [39.87129352733297, 32.75000695411975]
+      },
+      {
+        "name": "Öğrenci İşleri",
+        "coordinates": [39.864568855272765, 32.74452979182761]
+      },
+      {
+        "name": "Uluslararası Öğrenci İşleri Ofisi",
+        "coordinates": [39.86428970270089, 32.74479390768135]
+      },
+      {
+        "name": "Uluslararası Çocuk Merkezi",
+        "coordinates": [39.8700057791742, 32.74982400901263]
+      },
+      {
+        "name": "Bilkent Üniversitesi Enstitü Veri Deposu",
+        "coordinates": [39.870496526061906, 32.749364940611244]
+      },
+      {
+        "name": "Bilkent Konser Salonu",
+        "coordinates": [39.86937850330408, 32.75554939591922]
+      },
+      {
+        "name": "Kariyer Merkezi",
+        "coordinates": [39.8723792389662, 32.75070236221267]
+      }
+    ],
+    "Fakülte Binaları":[],
+    "Kafe / Restorant":[
+      {"name":"Merkez Speed Cafe","coordinates":[39.866232415799075, 32.748406530628294]},
+      {"name":"Merkez Express Cafe","coordinates":[39.86636345264866, 32.7492601438288]},
+      {"name":"Merkez Starbucks","coordinates":[39.86692444104257, 32.74933534119395]},
+      {"name":"Merkez Fiero Cafe","coordinates":[39.868034807255995, 32.74972208086673]},
+      {"name":"Merkez Coffee Break","coordinates":[39.86817792459491, 32.74911880614384]},
+      {"name":"Merkez Mozart Cafe","coordinates":[39.868695636404354, 32.74801628934717]},
+      {"name":"Cyberpark Coffee Break","coordinates":[39.869869685671766, 32.745301333164925]},
+      {"name":"Cyberpark Dengeli Coffee & Restaurant","coordinates":[39.869628828845116, 32.74473739871906]},
+      {"name":"Merkez Cafe In","coordinates":[39.86996133647057, 32.750563889956325]},
+      {"name":"Sofa Cafe","coordinates":[39.86426943886578, 32.74913791871071]},
+      {"name":"Çatı Açık Büfe","coordinates":[39.8636561235379, 32.74684168842873]},
+      {"name":"","coordinates":[]},
+      {"name":"","coordinates":[]},
+      {"name":"","coordinates":[]},
+      {"name":"","coordinates":[]},
+      {"name":"","coordinates":[]}
+    ]
+  }
+}
